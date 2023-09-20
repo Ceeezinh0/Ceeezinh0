@@ -26,7 +26,7 @@
   <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
   <div align="center">
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Cristisiuuu/Cristisiuuu/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
