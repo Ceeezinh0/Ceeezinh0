@@ -24,10 +24,9 @@
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
   <img align="center" alt="Php" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
   <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
-  <div align="center">
+   <p align="center"> 
 
-   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+  ![Snake animation](https://github.com/Cristisiuuu/Cristisiuuu/blob/output/github-contribution-grid-snake.svg)
+ </p>
 
 </div>
