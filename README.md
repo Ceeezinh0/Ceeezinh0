@@ -25,7 +25,5 @@
   <img align="center" alt="Php" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
   <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
   
-![snake gif](https://github.com/Cristisiuuu/Cristisiuuu/blob/output/github-contribution-grid-snake.gif)
-  
 
 </div>
