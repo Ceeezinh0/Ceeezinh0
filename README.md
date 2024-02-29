@@ -4,15 +4,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=053f6b&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Me+chamo+Cristiano+Marques+Silva;Tenho+18+anos;E+estou+cursando+Ciência+da+Computação+na+UNESP;)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cristisiuuu&bg_color=191616&color=053f6b&line=053f6b&point=053f6b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ceeezinh0&bg_color=191616&color=053f6b&line=053f6b&point=053f6b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Github stats 🚀
 <br>
 
 <div align="center">
-  <a href="https://github.com/Cristisiuuu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cristisiuuu&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristisiuuu&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/Ceeezinh0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ceeezinh0&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceeezinh0&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
