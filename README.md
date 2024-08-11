@@ -45,10 +45,5 @@
 
 📫 Sinta-se à vontade para me chamar para um papo sobre tecnologia, projetos interessantes ou apenas trocar uma ideia! Estou sempre aberto a novas conexões.
 
----
-
-### 🐍 Minhas Contribuições Recentes
-![snake gif](https://github.com/Ceeezinh0/Ceeezinh0/blob/output/github-contribution-grid-snake.svg)
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=053f6b&height=120&section=footer"/>
