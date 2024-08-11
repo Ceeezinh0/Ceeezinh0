@@ -9,15 +9,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Checkout do repositório
+      # Atualiza a ação de checkout para a versão mais recente
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       # Gera a animação da cobrinha
       - name: Generate Snake Animation
         uses: Platane/snk@master
         with:
-          github_user_name: Ceeezinh0 # Substitua pelo seu nome de usuário do GitHub
+          github_user_name: Ceeezinh0 # Certifique-se de que este nome está correto
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       # Publica a imagem gerada na branch output
