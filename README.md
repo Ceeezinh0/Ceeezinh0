@@ -1,22 +1,22 @@
 # Cristiano Marques Silva 💻
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=053f6b&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=053f6b&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Me+chamo+Cristiano+Marques+Silva;Tenho+19+anos;Estou+explorando+o+mundo+da+Ciência+da+Computação;Na+UNESP!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=053f6b&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;My+name+is+Cristiano+Marques+Silva;I+am+19+years+old;I+am+exploring+the+world+of+Computer+Science;At+UNESP!)](https://git.io/typing-svg)
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 About Me
 
-🌟 Olá! Sou o Cristiano, apaixonado por tecnologia, programação e sempre em busca de novos desafios. Atualmente, sou estudante de Ciência da Computação na UNESP, onde estou imerso no fascinante mundo da computação e da inovação. 
+🌟 Hello! I'm Cristiano, passionate about technology, programming, and always seeking new challenges. I am currently a Computer Science student at UNESP, where I am immersed in the fascinating world of computing and innovation.
 
-✨ Curiosidades sobre mim:
-- Tenho 19 anos e uma sede insaciável por conhecimento!
-- Adoro resolver problemas complexos e criar soluções inovadoras.
-- No meu tempo livre, você pode me encontrar codando, explorando novas tecnologias ou simplesmente correndo por aí para manter a mente afiada.
+✨ Fun facts about me:
+- I am 19 years old and have an insatiable thirst for knowledge!
+- I love solving complex problems and creating innovative solutions.
+- In my free time, you can find me coding, exploring new technologies, or just running around to keep my mind sharp.
 
 ---
 
-## 🚀 Github stats 
+## 🚀 Github Stats 
 
 <div align="center">
   <a href="https://github.com/Ceeezinh0">
@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 O que eu sei fazer (e continuo aprendendo...)
+## 🚀 What I Know (and Keep Learning...)
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -43,7 +43,6 @@
 
 ## 🌟 Let's Connect!
 
-📫 Sinta-se à vontade para me chamar para um papo sobre tecnologia, projetos interessantes ou apenas trocar uma ideia! Estou sempre aberto a novas conexões.
-
+📫 Feel free to reach out to me to chat about technology, interesting projects, or just to exchange ideas! I'm always open to new connections.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=053f6b&height=120&section=footer"/>
