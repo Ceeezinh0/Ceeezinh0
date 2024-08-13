@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=053f6b&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=091901&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=053f6b&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;My+name+is+Cristiano+Marques+Silva;I+am+19+years+old;I+am+exploring+the+world+of+Computer+Science;At+UNESP!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FB8C00&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;My+name+is+Cristiano+Marques+Silva;I+am+19+years+old;I+am+exploring+the+world+of+Computer+Science;At+UNESP!)](https://git.io/typing-svg)
 
 ---
 
@@ -51,4 +51,4 @@
 
 📫 Feel free to reach out to me to chat about technology, interesting projects, or just to exchange ideas! I'm always open to new connections.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=053f6b&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=091901&height=120&section=footer"/>
