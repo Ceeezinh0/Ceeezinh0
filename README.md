@@ -3,7 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FB8C00&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;My+name+is+Cristiano+Marques+Silva;I+am+19+years+old;I+am+exploring+the+world+of+Computer+Science;At+UNESP!)](https://git.io/typing-svg)
 
 ---
+<p align="center">
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/Ceeezinh0/count.svg" />
+</p>
 
+---
 ## 👨‍💻 About Me
 
 🌟 Hello! I'm Cristiano, passionate about technology, programming, and always seeking new challenges. I am currently a Computer Science student at UNESP, where I am immersed in the fascinating world of computing and innovation.
@@ -44,6 +49,7 @@
 ## 📊 Commit Graph
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ceeezinh0&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
