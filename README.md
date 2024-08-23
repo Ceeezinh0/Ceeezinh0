@@ -8,7 +8,6 @@
   <img src="https://profile-counter.glitch.me/Ceeezinh0/count.svg" />
 </p>
 
----
 ## 👨‍💻 About Me
 
 🌟 Hello! I'm Cristiano, passionate about technology, programming, and always seeking new challenges. I am currently a Computer Science student at UNESP, where I am immersed in the fascinating world of computing and innovation.
